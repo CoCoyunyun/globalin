@@ -5,7 +5,7 @@ public class Ex02 {
 
 	public static void main(String[] args) {
 		
-		
+		// 주석
 		int unit[]= {50000,10000,1000,500,100,50,10,1};
 		Scanner sc=new Scanner(System.in);
 		System.out.print("금액을 입력하세요");
